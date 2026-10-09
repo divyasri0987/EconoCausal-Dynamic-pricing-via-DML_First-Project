@@ -7,4 +7,4 @@ EconoCausal is a Data Science and Machine Learning project that focuses on under
 
 ## Current Status:
 
-Day 1: Project introduction, objectives, and development plan.
+Day 1: Added the project introduction.
